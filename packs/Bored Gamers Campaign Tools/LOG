@@ -1,8 +1,0 @@
-2023/09/15-21:37:30.947576 b25fc400 Recovering log #4
-2023/09/15-21:37:30.959312 b25fc400 Delete type=0 #4
-2023/09/15-21:37:30.959950 b25fc400 Delete type=3 #2
-2023/09/15-21:39:13.226720 b09ef400 Level-0 table #9: started
-2023/09/15-21:39:13.227267 b09ef400 Level-0 table #9: 0 bytes OK
-2023/09/15-21:39:13.229690 b09ef400 Delete type=0 #7
-2023/09/15-21:39:13.230970 b09ef400 Manual compaction at level-0 from '!tables!tQHZqpOU0zShQ8Eg' @ 72057594037927935 : 1 .. '!tables.results!tQHZqpOU0zShQ8Eg.zZfjeubPyLuned4u' @ 0 : 0; will stop at (end)
-2023/09/15-21:39:13.244685 b09ef400 Manual compaction at level-1 from '!tables!tQHZqpOU0zShQ8Eg' @ 72057594037927935 : 1 .. '!tables.results!tQHZqpOU0zShQ8Eg.zZfjeubPyLuned4u' @ 0 : 0; will stop at (end)
