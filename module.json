@@ -12,7 +12,7 @@
         {
             "name": "bored-gamers-campaign-tools",
             "label": "Bored Gamers Campaign Tools",
-            "path": "packs/Bored Gamers Campaign Tools",
+            "path": "packs/table.db",
             "module": "bored-gamers-campaign-tools",
             "type": "RollTable"
         }
