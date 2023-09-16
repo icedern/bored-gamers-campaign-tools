@@ -1,23 +1,24 @@
 {
-  "id": "bored-gamers-campaign-tools",
-  "title": "Bored Gamers Campaign Tools",
-  "description": "Rollable Tables Compendium.",
-  "authors": [
-    {
-    "name": "icedern, xuln"
-    }
-  ],
-  "version": "1.0.0",
-  "compatibility": {
-    "minimum": "10",
-    "verified": "11"
-  }
-  "packs": [
-    {
-      "name": "bored-gamers-campaign-tools",
-      "label": "Bored Gamers Campaign Tools",
-      "path": "./packs/Bored Gamers Campaign Tools",
-      "type": "Rollable Table"
-    }
-  ]
+    "id": "bored-gamers-campaign-tools",
+    "title": "Bored Gamers Campaign Tools",
+    "description": "Collection of tables for campaigns",
+    "version": "11.0",
+    "authors": [
+        {
+            "name": "icedern, xuln"
+        }
+    ],
+    "packs": [
+        {
+            "name": "bored-gamers-campaign-tools",
+            "label": "Bored Gamers Campaign Tools",
+            "path": "packs/Bored Gamers Campaign Tools",
+            "module": "bored-gamers-campaign-tools",
+            "type": "RollTable"
+        }
+    ],
+       "compatibility": {
+        "minimum": "11",
+        "verified": "11"
+      }
 }
