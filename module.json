@@ -1,0 +1,23 @@
+{
+  "id": "bored-gamers-campaign-tools",
+  "title": "Bored Gamers Campaign Tools",
+  "description": "Rollable Tables Compendium.",
+  "authors": [
+    {
+    "name": "icedern, xuln"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  }
+  "packs": [
+    {
+      "name": "bored-gamers-campaign-tools",
+      "label": "Bored Gamers Campaign Tools",
+      "path": "./packs/Bored Gamers Campaign Tools",
+      "type": "Rollable Table"
+    }
+  ]
+}
