@@ -20,7 +20,7 @@
   ],
   "url": "https://github.com/icedern/bored-gamers-campaign-tools/",
   "download": "https://github.com/icedern/bored-gamers-campaign-tools/archive/refs/tags/v1.0.0-beta.zip",
-  "manifest": "https://github.com/icedern/bored-gamers-campaign-tools/blob/module.json",
+  "manifest": "https://github.com/icedern/bored-gamers-campaign-tools/releases/latest/download/module.json",
   "packs": [
     {
       "name": "bored-gamers",
