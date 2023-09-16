@@ -1,0 +1,35 @@
+{
+  "id": "bored-gamers",
+  "title": "Bored Gamers",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "icedern",
+      "discord": "icedern",
+      "flags": {}
+    },
+    {
+      "name": "xuln",
+      "discord": "xuln",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/icedern/bored-gamers-campaign-tools/blob/main/module.json",
+  "packs": [
+    {
+      "name": "bored-gamers",
+      "label": "Bored Gamers",
+      "path": "packs/bored-gamers",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
